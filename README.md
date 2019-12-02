@@ -1,6 +1,6 @@
 # Ekart
 An Online Shopping website developed using Html, CSS, Bootstrap, MySQL, PHP.
-http://vvcekart.000webhostapp.com/
+https://vvcekart.000webhostapp.com/
 
 Features
 --------
@@ -13,7 +13,7 @@ Running the project
 
 * Install WAMP
 * Import database from ekart.sql file.
-* Run WAMP and open web page from browser: http://localhost/Ekart/index.php
+* Run WAMP and open web page from browser: https://localhost/Ekart/index.php
 
 Project Developer
 ----------------
